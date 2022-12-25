@@ -1,0 +1,14 @@
+span{
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.texto p{
+    overflow: hidden;
+    height: 2%;
+}
+
+.p_show{
+    height: 100% !important;
+    transition: 1s;
+}
